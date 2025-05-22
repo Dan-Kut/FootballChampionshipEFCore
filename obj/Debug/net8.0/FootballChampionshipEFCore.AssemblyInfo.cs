@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FootballChampionshipEFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+402aaab129a0a07776f72b5418d37601269d54e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FootballChampionshipEFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FootballChampionshipEFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
